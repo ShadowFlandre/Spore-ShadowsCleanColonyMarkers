@@ -1,0 +1,9 @@
+uint32s ReplaceEffects
+	hash(0x41BC3BC4)
+	hash(0x7C2917E7)
+end
+
+uint32s EffectsToReplaceWith
+	hash(marker_colony_flag)
+	hash(marker_homeworld_flag)
+end
